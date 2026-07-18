@@ -277,6 +277,7 @@ try (var executor = Executors.newVirtualThreadPerTaskExecutor()) {
 | Creation Cost      | Expensive           | Cheap                           |
 | Best For           | CPU-intensive tasks | I/O-bound, high-concurrency tasks |
 
+
 ---
 
 ### Note (Hinglish)
